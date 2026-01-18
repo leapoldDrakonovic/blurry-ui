@@ -1,6 +1,6 @@
 import type { Variant } from "./type"
 
-
+// Base react props for component
 export interface BaseProps {
     className?: string,
     children?: React.ReactNode
